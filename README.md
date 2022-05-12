@@ -1,6 +1,8 @@
 # Kubernetes Architecture Icons
 
-An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
+A K8s and Cloud-Native icon set for building cloud-native architecture diagrams
+
+<img src="examples/k8s-splash-example.svg" width="100%" />
 
 ## Cluster and Node Management
 
