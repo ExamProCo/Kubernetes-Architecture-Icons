@@ -127,18 +127,34 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 ## Autoscaling and Limits
 
 <table border="0">
-  <tr><td width="1%" align="center"><img src="icons/svg/vertical-pod-autoscaler.svg" width="100px;" alt=""/><td></tr>  <tr><a href="#">Vertical Pod Autoscaler</a></td></tr>
-  <tr><td width="1%" align="center"><img src="icons/svg/horizontal-pod-autoscaler.svg" width="100px;" alt=""/><td></tr><tr><a href="#">Horizontal Pod Autoscaler</a></td></tr>
-  <tr><td width="1%" align="center"><img src="icons/svg/cluster-autoscaler.svg" width="100px;" alt=""/><td></tr>       <tr><a href="#">Cluster Autoscaler</a></td></tr>
-  <tr><td width="1%" align="center"><img src="icons/svg/limit-range.svg" width="100px;" alt=""/><td></tr>              <tr><a href="#">Limit Range</a></td></tr>
-  <tr><td width="1%" align="center"><img src="icons/svg/resource-quotas.svg" width="100px;" alt=""/></td></tr>          <tr><a href="#">Resource Quotas</a></td></tr>
+  <tr>
+    <td><img src="icons/svg/vertical-pod-autoscaler.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Vertical Pod Autoscaler</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/horizontal-pod-autoscaler.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Horizontal Pod Autoscaler</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/cluster-autoscaler.svg" width="50px;" alt=""/></td> 
+    <td><a href="#">Cluster Autoscaler</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/limit-range.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Limit Range</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/resource-quotas.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Resource Quotas</a></td>
+  </tr>
 </table>
 
 ## Kubelet
 
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/kubelet.svg" width="100px;" alt=""/><br /><sub><b>Kubelet</b></sub></a><br /></td>
+    <td align="center">
+      <a href="#"><img src="icons/svg/kubelet.svg" width="100px;" alt=""/><br /><sub><b>Kubelet</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="icons/svg/readiness-probe.svg" width="100px;" alt=""/><br /><sub><b>Readiness Probe</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="icons/svg/liveness-probe.svg" width="100px;" alt=""/><br /><sub><b>Liveness Probe</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="icons/svg/startup-probe.svg" width="100px;" alt=""/><br /><sub><b>Startup Probe</b></sub></a><br /></td>
