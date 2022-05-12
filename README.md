@@ -89,7 +89,7 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
   <tr>
     <td align="center"><a href="#"><img src="icons/svg/core-dns.svg" width="100px;" alt=""/><br /><sub><b>Core DNS</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="icons/svg/persistent-volume-claim.svg" width="100px;" alt=""/><br /><sub><b>Persistent Volume Claim</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/persistent-volumes.svg" width="100px;" alt=""/><br /><sub><b>Persistent Volume</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img src="icons/svg/persistent-volume.svg" width="100px;" alt=""/><br /><sub><b>Persistent Volume</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="icons/svg/ephemeral-storage.svg" width="100px;" alt=""/><br /><sub><b>Ephemeral Storage</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="icons/svg/projected-volume.svg" width="100px;" alt=""/><br /><sub><b>Projected Volume</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="icons/svg/volume-snapshot.svg" width="100px;" alt=""/><br /><sub><b>Volume Snapshot</b></sub></a><br /></td>
@@ -126,7 +126,7 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 ## Autoscaling and Limits
 
-<table border="0">
+<table>
   <tr>
     <td><img src="icons/svg/vertical-pod-autoscaler.svg" width="50px;" alt=""/></td>
     <td><a href="#">Vertical Pod Autoscaler</a></td>
@@ -153,11 +153,19 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 <table>
   <tr>
-    <td align="center">
-      <a href="#"><img src="icons/svg/kubelet.svg" width="100px;" alt=""/><br /><sub><b>Kubelet</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/readiness-probe.svg" width="100px;" alt=""/><br /><sub><b>Readiness Probe</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/liveness-probe.svg" width="100px;" alt=""/><br /><sub><b>Liveness Probe</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/startup-probe.svg" width="100px;" alt=""/><br /><sub><b>Startup Probe</b></sub></a><br /></td>
+    <td><img src="icons/svg/kubelet.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Kubelet</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/readiness-probe.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Readiness Probe</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/liveness-probe.svg" width="50px;" alt=""/></td> 
+    <td><a href="#">Liveness Probe</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/startup-probe.svg" width="50px;" alt=""/></td>
+    <td><a href="#">tartup Probe</a></td>
   </tr>
 </table>
-
