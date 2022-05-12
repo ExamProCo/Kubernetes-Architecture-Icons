@@ -55,7 +55,7 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
     <td><a href="#">Kube CTL</a></td>
   </tr>
   <tr>
-    <td><img src="icons/svg/generic-mainfest-file.svg" width="50px;" alt=""/></td>
+    <td><img src="icons/svg/generic-manifest-file.svg" width="50px;" alt=""/></td>
     <td><a href="#">Generic Mainfest File</a></td>
   </tr>
 </table>
@@ -88,8 +88,8 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
     <td><a href="#">Deamon</a></td>
   </tr>
   <tr>
-    <td><img src="icons/svg/container-closer-look.svg" width="50px;" alt=""/></td>
-    <td><a href="#">Container Closer Look</a></td>
+    <td><img src="icons/svg/container-close-look.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Container Close Look</a></td>
   </tr>
 </table>
 
