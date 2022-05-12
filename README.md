@@ -127,13 +127,11 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 ## Autoscaling and Limits
 
 <table border="0">
-  <tr>
-    <td width="20%" align="center"><a href="#"><img src="icons/svg/vertical-pod-autoscaler.svg" width="100px;" alt=""/><br /><sub><b>Vertical Pod Autoscaler</b></sub></a><br /></td>
-    <td width="20%" align="center"><a href="#"><img src="icons/svg/horizontal-pod-autoscaler.svg" width="100px;" alt=""/><br /><sub><b>Horizontal Pod Autoscaler</b></sub></a><br /></td>
-    <td width="20%" align="center"><a href="#"><img src="icons/svg/cluster-autoscaler.svg" width="100px;" alt=""/><br /><sub><b>Cluster Autoscaler</b></sub></a><br /></td>
-    <td width="20%" align="center"><a href="#"><img src="icons/svg/limit-range.svg" width="100px;" alt=""/><br /><sub><b>Limit Range</b></sub></a><br /></td>
-    <td width="20%" align="center"><a href="#"><img src="icons/svg/resource-quotas.svg" width="100px;" alt=""/><br /><sub><b>Resource Quotas</b></sub></a><br /></td>
-  </tr>
+  <tr><td width="20%" align="center"><a href="#"><img src="icons/svg/vertical-pod-autoscaler.svg" width="100px;" alt=""/></tr><tr><sub><b>Vertical Pod Autoscaler</b></sub></a><br /></td></tr>
+  <tr><td width="20%" align="center"><a href="#"><img src="icons/svg/horizontal-pod-autoscaler.svg" width="100px;" alt=""/></tr><tr><sub><b>Horizontal Pod Autoscaler</b></sub></a><br /></td></tr>
+  <tr><td width="20%" align="center"><a href="#"><img src="icons/svg/cluster-autoscaler.svg" width="100px;" alt=""/></tr><tr><sub><b>Cluster Autoscaler</b></sub></a><br /></td></tr>
+  <tr><td width="20%" align="center"><a href="#"><img src="icons/svg/limit-range.svg" width="100px;" alt=""/></tr><tr><sub><b>Limit Range</b></sub></a><br /></td></tr>
+  <tr><td width="20%" align="center"><a href="#"><img src="icons/svg/resource-quotas.svg" width="100px;" alt=""/></tr><tr><sub><b>Resource Quotas</b></sub></a><br /></td></tr>
 </table>
 
 ## Kubelet
