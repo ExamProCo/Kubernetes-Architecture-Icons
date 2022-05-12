@@ -6,14 +6,36 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/cluster.svg" width="100px;" alt=""/><br /><sub><b>Cluster</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/controller-manager.svg" width="100px;" alt=""/><br /><sub><b>Controller Manager</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/cloud-controller-manager.svg" width="100px;" alt=""/><br /><sub><b>Cloud Controller Manager</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/control-plane-node.svg" width="100px;" alt=""/><br /><sub><b>Control Plane Node</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/worker-node.svg" width="100px;" alt=""/><br /><sub><b>Worker Node</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/custom-resource-definition.svg" width="100px;" alt=""/><br /><sub><b>Custom Resource Defintion</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/namespace.svg" width="100px;" alt=""/><br /><sub><b>Namespace</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/scheduler.svg" width="100px;" alt=""/><br /><sub><b>Scheduler</b></sub></a><br /></td>
+    <td><img src="icons/svg/cluster.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Cluster</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/controller-manager.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Controller Manager</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/cloud-controller-manager.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Cloud Controller Manager</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/control-plane-node.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Control Plane Node</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/worker-node.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Worker Node</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/custom-resource-definition.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Custom Resource Defintion</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/namespace.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Namespace</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/scheduler.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Scheduler</a></td>
   </tr>
 </table>
 
@@ -21,22 +43,53 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/api-server.svg" width="100px;" alt=""/><br /><sub><b>API Server</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/kube-ctl.svg" width="100px;" alt=""/><br /><sub><b>Kube CTL</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/generic-mainfest-file.svg" width="100px;" alt=""/><br /><sub><b>Generic Manifest File</b></sub></a><br /></td>
+    <td><img src="icons/svg/api-server.svg" width="50px;" alt=""/></td>
+    <td><a href="#">API Server</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/kube-ctl.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Kube CTL</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/kube-ctl.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Kube CTL</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/generic-mainfest-file.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Generic Mainfest File</a></td>
   </tr>
 </table>
 
 ## Containers and Pods
+
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/container.svg" width="100px;" alt=""/><br /><sub><b>Container</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/pod.svg" width="100px;" alt=""/><br /><sub><b>Pod</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/pods.svg" width="100px;" alt=""/><br /><sub><b>Pods</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/pod-spec-file.svg" width="100px;" alt=""/><br /><sub><b>Pod Spec File</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/container-runtime.svg" width="100px;" alt=""/><br /><sub><b>Container Runtime</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/deamon.svg" width="100px;" alt=""/><br /><sub><b>Deamon</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/container-closer-look.svg" width="100px;" alt=""/><br /><sub><b>Container Closer Look</b></sub></a><br /></td>
+    <td><img src="icons/svg/container.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Container</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/pod.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Pod</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/pods.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Pods</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/pod-spec-file.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Pod Spec File</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/container-runtime.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Container Runtime</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/deamon.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Deamon</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/container-closer-look.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Container Closer Look</a></td>
   </tr>
 </table>
 
@@ -44,17 +97,28 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/deployment.svg" width="100px;" alt=""/><br /><sub><b>Deployment</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/replica-set.svg" width="100px;" alt=""/><br /><sub><b>Replica Set</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/stateful-set.svg" width="100px;" alt=""/><br /><sub><b>Stateful Set</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/deamon-set.svg" width="100px;" alt=""/><br /><sub><b>Deamon Set</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/job.svg" width="100px;" alt=""/><br /><sub><b>Job</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/cron-job.svg" width="100px;" alt=""/><br /><sub><b>Cron Job</b></sub></a><br /></td>
+    <td><img src="icons/svg/deployment.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Deployment</a></td>
   </tr>
-</table>
-
-<table>
   <tr>
+    <td><img src="icons/svg/replica-set.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Replica Set</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/stateful-set.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Stateful Set</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/deamon-set.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Deamon Set</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/cron-job.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Cron Job</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/job.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Job</a></td>
   </tr>
 </table>
 
@@ -62,24 +126,59 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/admissions-controller.svg" width="100px;" alt=""/><br /><sub><b>Admissions Controller</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/network-policy.svg" width="100px;" alt=""/><br /><sub><b>Network Policy</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/ingress.svg" width="100px;" alt=""/><br /><sub><b>Ingress</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/service.svg" width="100px;" alt=""/><br /><sub><b>Service</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/headless-service.svg" width="100px;" alt=""/><br /><sub><b>Headless Service</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/ip-tables.svg" width="100px;" alt=""/><br /><sub><b>Ip Tables</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/ipvs.svg" width="100px;" alt=""/><br /><sub><b>IPVS</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/endpoint-slice.svg" width="100px;" alt=""/><br /><sub><b>Endpoint Slice</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/endpoint.svg" width="100px;" alt=""/><br /><sub><b>Endpoint</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/proxy.svg" width="100px;" alt=""/><br /><sub><b>Proxy</b></sub></a><br /></td>
+    <td><img src="icons/svg/admissions-controller.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Admissions Controller</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/network-policy.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Network Policy</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/ingress.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Ingress</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/service.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Service</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/headless-service.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Headless Service</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/ip-tables.svg" width="50px;" alt=""/></td>
+    <td><a href="#">IP Tables</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/ipvs.svg" width="50px;" alt=""/></td>
+    <td><a href="#">IPVS</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/endpoint-slice.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Endpoint Slice</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/endpoint.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Endpoint</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/proxy.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Proxy</a></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/flux.svg" width="100px;" alt=""/><br /><sub><b>Flux</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/argo.svg" width="100px;" alt=""/><br /><sub><b>Argo</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/nginx-ingress-controller.svg" width="100px;" alt=""/><br /><sub><b>Nginx Ingress Controller</b></sub></a><br /></td>
+    <td><img src="icons/svg/flux.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Flux</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/argo.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Argo</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/nginx-ingress-controller.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Nginx Ingress Controller</a></td>
   </tr>
 </table>
 
@@ -87,29 +186,76 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/core-dns.svg" width="100px;" alt=""/><br /><sub><b>Core DNS</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/persistent-volume-claim.svg" width="100px;" alt=""/><br /><sub><b>Persistent Volume Claim</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/persistent-volume.svg" width="100px;" alt=""/><br /><sub><b>Persistent Volume</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/ephemeral-storage.svg" width="100px;" alt=""/><br /><sub><b>Ephemeral Storage</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/projected-volume.svg" width="100px;" alt=""/><br /><sub><b>Projected Volume</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/volume-snapshot.svg" width="100px;" alt=""/><br /><sub><b>Volume Snapshot</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/storage-class.svg" width="100px;" alt=""/><br /><sub><b>Storage Class</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/secrets.svg" width="100px;" alt=""/><br /><sub><b>Secrets</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/config-map.svg" width="100px;" alt=""/><br /><sub><b>Config Map</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/etcd.svg" width="100px;" alt=""/><br /><sub><b>Etcd</b></sub></a><br /></td>
+    <td><img src="icons/svg/core-dns.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Core DNS</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/persistent-volume-claim.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Persistent Volume Claim</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/persistent-volume.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Persistent Volume</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/ephemeral-storage.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Ephemeral StoragP</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/projected-volume.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Projected Volum</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/volume-snapshot.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Volume Snapshot</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/storage-class.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Storage Class</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/secrets.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Secrets</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/config-map.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Config Map</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/etcd.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Etcd</a></td>
   </tr>
 </table>
 
 ## Role Based Access Controls (RBAC)
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/role.svg" width="100px;" alt=""/><br /><sub><b>Role</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/role-binding.svg" width="100px;" alt=""/><br /><sub><b>Role Binding</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/cluster-role.svg" width="100px;" alt=""/><br /><sub><b>Cluster Role</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/cluster-role-binding.svg" width="100px;" alt=""/><br /><sub><b>Cluster Role Binding</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/service-account.svg" width="100px;" alt=""/><br /><sub><b>Service Account</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/user.svg" width="100px;" alt=""/><br /><sub><b>User</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/group.svg" width="100px;" alt=""/><br /><sub><b>Group</b></sub></a><br /></td>
+    <td><img src="icons/svg/role.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Role</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/role-binding.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Role Binding</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/cluster-role.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Cluster Role</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/cluster-role-binding.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Cluster Role Binding</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/service-account.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Service Account</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/user.svg" width="50px;" alt=""/></td>
+    <td><a href="#">User</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/group.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Group</a></td>
   </tr>
 </table>
 
@@ -117,10 +263,20 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 <table>
   <tr>
-    <td align="center"><a href="#"><img src="icons/svg/container-storage-interface.svg" width="100px;" alt=""/><br /><sub><b>Container Storage Interface</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/container-network-interface.svg" width="100px;" alt=""/><br /><sub><b>Container Network Interface</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/container-runtime-interface-container-d.svg" width="100px;" alt=""/><br /><sub><b>Container Runtime Interface (ContainerD)</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img src="icons/svg/container-runtime-interface-cri-o.svg" width="100px;" alt=""/><br /><sub><b>Container Runtime Interface (CRI-O)</b></sub></a><br /></td>
+    <td><img src="icons/svg/container-storage-interface.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Container Storage Interface</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/container-network-interface.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Container Network Interface</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/container-runtime-interface-container-d.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Container Runtime Interface (ContainerD)</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/container-runtime-interface-cri-o.svg" width="50px;" alt=""/></td>
+    <td><a href="#">Container Runtime Interface (CRI-O)</a></td>
   </tr>
 </table>
 
