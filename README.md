@@ -126,7 +126,7 @@ An K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 ## Autoscaling and Limits
 
-<table>
+<table border="0">
   <tr>
     <td align="center"><a href="#"><img src="icons/svg/vertical-pod-autoscaler.svg" width="100px;" alt=""/><br /><sub><b>Vertical Pod Autoscaler</b></sub></a><br /></td>
     <td align="center"><a href="#"><img src="icons/svg/horizontal-pod-autoscaler.svg" width="100px;" alt=""/><br /><sub><b>Horizontal Pod Autoscaler</b></sub></a><br /></td>
