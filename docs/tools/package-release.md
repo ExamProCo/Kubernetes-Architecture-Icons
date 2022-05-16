@@ -1,24 +1,27 @@
-# SVG to PNG Conversion Tool
+# Package Release Tool
 
-## Install Librsvg2
+The purpose of this tool is to help generate out common icon sizes and formats into downloadable archives which are then uploaded as releases on Github.
 
-[Libsvg2](https://www.freshports.org/graphics/librsvg2) is a Library for parsing and rendering SVG vector-graphic files. We use this library to convert svgs to pngs
+## How to run the tool
 
-```sh
-sudo apt-get install -y librsvg2-bin
+You need to supply a version number.
+
+```
+./bin/package-release 1.0.0
 ```
 
-## Run SVG to PNG Conversion Tool
+## Where to find the archives after running the tool
 
-You can supply any pixel number as the first argument.
-For example this will generate out all icons in 512px.
-```sh
-./bin/svg-to-png.sh 512
+The icon archives will be generated in the `build` directory eg.
+
 ```
-
-## Where to find the icons after running the tool
-
-The icons will be generated in the follow directory `icons/png/${PIXEL_SIZE}px/`
+build/
+  k8s-icons-1.0.0-png64px.zip
+  k8s-icons-1.0.0-png128px.zip
+  k8s-icons-1.0.0-png256px.zip
+  k8s-icons-1.0.0-png512px.zip
+  k8s-icons-1.0.0-svg.zip
+```
 
 ## Run in Gitpod
 

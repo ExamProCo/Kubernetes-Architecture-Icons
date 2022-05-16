@@ -7,6 +7,7 @@ A K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 # Included Tools
 
 - How to use the [SVG-to-PNG Conversion tool](docs/tools/svg-to-png.md) (supports any custom size)
+- How to use the [Package Release tool](docs/tools/package-release.md) to aid in publishing new releases
 
 # Icon Directory
 

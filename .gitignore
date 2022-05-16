@@ -1,1 +1,4 @@
 icons/png/*
+build
+build/*
+.DS_STORE
