@@ -2,7 +2,22 @@
 
 A K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
+
 <img src="examples/k8s-splash-example.svg" width="100%" />
+
+# Download Icons
+
+You can download all icons as a single zip archive (Choose your format):
+
+- [PNGs 512px](https://github.com/ExamProCo/Kubernetes-Architecture-Icons/releases/download/1.0.0/k8s-icons-1.0.0-png-512px.zip)
+- [PNGs 256px](https://github.com/ExamProCo/Kubernetes-Architecture-Icons/releases/download/1.0.0/k8s-icons-1.0.0-png-256px.zip)
+- [PNGs 128px](https://github.com/ExamProCo/Kubernetes-Architecture-Icons/releases/download/1.0.0/k8s-icons-1.0.0-png-128px.zip)
+- [PNGs 64px](https://github.com/ExamProCo/Kubernetes-Architecture-Icons/releases/download/1.0.0/k8s-icons-1.0.0-png-64px.zip)
+- [SVGs](https://github.com/ExamProCo/Kubernetes-Architecture-Icons/releases/download/1.0.0/k8s-icons-1.0.0-svg.zip)
+
+Latest and previous downloadable archive versions can found on the [releases page](https://github.com/ExamProCo/Kubernetes-Architecture-Icons/releases)
+
+
 
 # Included Tools
 
