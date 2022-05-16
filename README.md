@@ -4,6 +4,10 @@ A K8s and Cloud-Native icon set for building cloud-native architecture diagrams
 
 <img src="examples/k8s-splash-example.svg" width="100%" />
 
+- How to use the [SVG-to-PNG Conversion tool](docs/tools/svg-to-png.md) (supports any custom size)
+
+# Icon Directory
+
 ## Cluster and Node Management
 
 <table>
