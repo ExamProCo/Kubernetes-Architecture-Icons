@@ -13,7 +13,7 @@ sudo apt-get install -y librsvg2-bin
 You can supply any pixel number as the first argument.
 For example this will generate out all icons in 512px.
 ```sh
-./bin/svg-to-png.sh 512
+./bin/tools/svg-to-png.sh 512
 ```
 
 ## Where to find the icons after runnign the tool
