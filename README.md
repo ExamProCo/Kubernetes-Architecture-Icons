@@ -17,12 +17,14 @@ You can download all icons as a single zip archive (Choose your format):
 
 Latest and previous downloadable archive versions can found on the [releases page](https://github.com/ExamProCo/Kubernetes-Architecture-Icons/releases)
 
-
-
 # Included Tools
 
 - How to use the [SVG-to-PNG Conversion tool](docs/tools/svg-to-png.md) (supports any custom size)
 - How to use the [Package Release tool](docs/tools/package-release.md) to aid in publishing new releases
+
+# Included Files
+
+- How to use the original [Illustrator file](docs/files/k8-architecture-icons.md) for mass svg export or to add your own icon.
 
 # Icon Directory
 
