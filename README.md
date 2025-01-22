@@ -322,7 +322,7 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><a href="docs/cluster-autoscaler.md">Cluster Autoscaler</a></td>
   </tr>
   <tr>
-    <td><imag src="icons/svg/requests.svg" width="50px;" alt=""/></td>
+    <td><img src="icons/svg/requests.svg" width="50px;" alt=""/></td>
     <td><a href="docs/requests.md">Requests</a></td>
   </tr>
   <tr>
