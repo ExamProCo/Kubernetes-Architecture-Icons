@@ -79,6 +79,14 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><img src="icons/svg/kubeadm.svg" width="50px;" alt=""/></td>
     <td><a href="docs/kubeadm.md">Kubeadm</a></td>
   </tr>
+  <tr>
+    <td><img src="icons/svg/taint.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/taint.md">Taint</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/toleration.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/toleration.md">Toleration</a></td>
+  </tr>
 </table>
 
 ## API
@@ -206,6 +214,10 @@ Latest and previous downloadable archive versions can found on the [releases pag
   <tr>
     <td><img src="icons/svg/proxy.svg" width="50px;" alt=""/></td>
     <td><a href="docs/proxy.md">Proxy</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/gateway-api.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/gateway-api.md">Gateway API</a></td>
   </tr>
 </table>
 
