@@ -64,6 +64,10 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><a href="docs/scheduler.md">Scheduler</a></td>
   </tr>
   <tr>
+    <td><img src="icons/svg/kustomize.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/kustomize.md">Kustomize</a></td>
+  </tr>
+  <tr>
     <td><img src="icons/svg/helm.svg" width="50px;" alt=""/></td>
     <td><a href="docs/helm.md">Helm</a></td>
   </tr>
