@@ -281,6 +281,14 @@ Latest and previous downloadable archive versions can found on the [releases pag
   </tr>
 </table>
 
+## Public Key Infrastructure (PKI)
+<table>
+  <tr>
+    <td><img src="icons/svg/server-certificate.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/server-certificate.md">Server Certificate</a></td>
+  </tr>
+</table>
+
 ## Open Standards
 
 <table>
