@@ -63,6 +63,10 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><img src="icons/svg/scheduler.svg" width="50px;" alt=""/></td>
     <td><a href="docs/scheduler.md">Scheduler</a></td>
   </tr>
+  <tr>
+    <td><img src="icons/svg/helm.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/helm.md">Scheduler</a></td>
+  </tr>
 </table>
 
 ## API
