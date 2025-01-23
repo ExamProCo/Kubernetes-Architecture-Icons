@@ -287,6 +287,10 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><img src="icons/svg/group.svg" width="50px;" alt=""/></td>
     <td><a href="docs/group.md">Group</a></td>
   </tr>
+  <tr>
+    <td><img src="icons/svg/kubeconfig.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/kubeconfig.md">kubeconfig</a></td>
+  </tr>
 </table>
 
 ## Public Key Infrastructure (PKI)
