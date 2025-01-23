@@ -65,7 +65,7 @@ Latest and previous downloadable archive versions can found on the [releases pag
   </tr>
   <tr>
     <td><img src="icons/svg/kustomize.svg" width="50px;" alt=""/></td>
-    <td><a href="docs/kustomize.md">Scheduler</a></td>
+    <td><a href="docs/kustomized.md">Scheduler</a></td>
   </tr>
 </table>
 
