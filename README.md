@@ -158,6 +158,10 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><img src="icons/svg/job.svg" width="50px;" alt=""/></td>
     <td><a href="docs/job.md">Job</a></td>
   </tr>
+  <tr>
+    <td><img src="icons/svg/rollout.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/rollout.md">Rollout</a></td>
+  </tr>
 </table>
 
 ## Networking
@@ -346,7 +350,7 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><a href="docs/cluster-autoscaler.md">Cluster Autoscaler</a></td>
   </tr>
   <tr>
-    <td><imag src="icons/svc/requests.svg" width="50px;" alt=""/></td>
+    <td><img src="icons/svg/requests.svg" width="50px;" alt=""/></td>
     <td><a href="docs/requests.md">Requests</a></td>
   </tr>
   <tr>
