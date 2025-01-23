@@ -308,8 +308,16 @@ Latest and previous downloadable archive versions can found on the [releases pag
 ## Public Key Infrastructure (PKI)
 <table>
   <tr>
+    <td><img src="icons/svg/certificate-authority.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/certificate-authority.md">Certificate Authority</a></td>
+  </tr>
+  <tr>
     <td><img src="icons/svg/server-certificate.svg" width="50px;" alt=""/></td>
     <td><a href="docs/server-certificate.md">Server Certificate</a></td>
+  </tr>
+  <tr>
+    <td><img src="icons/svg/client-certificate.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/client-certificate.md">Client Certificate</a></td>
   </tr>
 </table>
 
