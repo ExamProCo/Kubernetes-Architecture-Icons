@@ -64,6 +64,10 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><a href="docs/scheduler.md">Scheduler</a></td>
   </tr>
   <tr>
+    <td><img src="icons/svg/operator.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/operator.md">Operator</a></td>
+  </tr>
+  <tr>
     <td><img src="icons/svg/kubeadm.svg" width="50px;" alt=""/></td>
     <td><a href="docs/kubeadm.md">Kubeadm</a></td>
   </tr>
