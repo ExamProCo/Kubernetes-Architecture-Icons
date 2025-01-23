@@ -67,6 +67,10 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><img src="icons/svg/operator.svg" width="50px;" alt=""/></td>
     <td><a href="docs/operator.md">Operator</a></td>
   </tr>
+  <tr>
+    <td><img src="icons/svg/kubeadm.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/kubeadm.md">Kubeadm</a></td>
+  </tr>
 </table>
 
 ## API
@@ -282,6 +286,14 @@ Latest and previous downloadable archive versions can found on the [releases pag
   <tr>
     <td><img src="icons/svg/group.svg" width="50px;" alt=""/></td>
     <td><a href="docs/group.md">Group</a></td>
+  </tr>
+</table>
+
+## Public Key Infrastructure (PKI)
+<table>
+  <tr>
+    <td><img src="icons/svg/server-certificate.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/server-certificate.md">Server Certificate</a></td>
   </tr>
 </table>
 
