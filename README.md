@@ -221,15 +221,15 @@ Latest and previous downloadable archive versions can found on the [releases pag
   </tr>
   <tr>
     <td><img src="icons/svg/clusterIP-service.svg" width="50px;" alt=""/></td>
-    <td><a href="docs/clusterIP-service.md">Gateway API</a></td>
+    <td><a href="docs/clusterIP-service.md">ClusterIP Service</a></td>
   </tr>
   <tr>
     <td><img src="icons/svg/nodeport-service.svg" width="50px;" alt=""/></td>
-    <td><a href="docs/nodeport-service.md">Gateway API</a></td>
+    <td><a href="docs/nodeport-service.md">NodePort Service</a></td>
   </tr>
   <tr>
     <td><img src="icons/svg/loadbalancer-service.svg" width="50px;" alt=""/></td>
-    <td><a href="docs/loadbalancer-service.md">Gateway API</a></td>
+    <td><a href="docs/loadbalancer-service.md">LoadBalancer Service</a></td>
   </tr>
 </table>
 
